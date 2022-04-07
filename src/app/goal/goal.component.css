@@ -1,0 +1,21 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+h6{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: purple;
+}
+
+h6 {
+
+    color: red;
+ 
+ }
